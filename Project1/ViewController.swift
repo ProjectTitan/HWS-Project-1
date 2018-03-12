@@ -1,10 +1,11 @@
 //
 //  ViewController.swift
-//  Project1
+//  Project3
 //
 //  Created by Rodney Simba Masarirambi on 3/5/18.
 //  Copyright © 2018 Rodney Simba Masarirambi. All rights reserved.
-//  Always remember to check the spelling... you now... reasons... 
+//  Always remember to check the spelling... you now... reasons...
+//  Same as Project 1 but adding the ability to share photos.
 
 import UIKit
 
